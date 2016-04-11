@@ -1,0 +1,2 @@
+# MidiGame
+unity中实现的读取midi文件生成游戏关卡的钢琴指法练习游戏

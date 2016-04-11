@@ -1,0 +1,14 @@
+<users>
+  <user name="asdad">
+    <stage id="1" score="75" />
+  </user>
+  <user name="tianhao">
+    <stage id="1" score="75" />
+    <stage id="2" score="85" />
+    <stage id="3" score="100" />
+  </user>
+  <user name="tianhao333">
+    <stage id="1" score="75" />
+  </user>
+  <user name="ddd" />
+</users>

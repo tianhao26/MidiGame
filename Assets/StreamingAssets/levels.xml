@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<levels>
+  <level id="1" name="level1" unlockScore="0" />
+  <level id="2" name="level2" unlockScore="60" />
+  <level id="3" name="关卡3" unlockScore="60" />
+  <level id="4" name="关卡4" unlockScore="60" />
+  <level id="5" name="关卡5" unlockScore="60" />
+  <level id="6" name="关卡6" unlockScore="60" />
+  <level id="7" name="关卡7" unlockScore="60" />
+  <level id="8" name="关卡8" unlockScore="60" />
+</levels>

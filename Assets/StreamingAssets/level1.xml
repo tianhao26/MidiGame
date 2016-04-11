@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<music lenth="15000" number="12">
+  <object code="3c" force="7f" delta="1349" />
+  <object code="3e" force="7f" delta="2343" />
+  <object code="40" force="0" delta="229" />
+  <object code="41" force="0" delta="3280" />
+  <object code="43" force="7f" delta="529" />
+  <object code="45" force="4c" delta="0" />
+  <object code="47" force="7f" delta="1349" />
+  <object code="48" force="7f" delta="2343" />
+  <object code="4a" force="0" delta="229" />
+  <object code="4c" force="0" delta="3280" />
+  <object code="3c" force="7f" delta="529" />
+  <object code="3e" force="4c" delta="0" />
+</music>

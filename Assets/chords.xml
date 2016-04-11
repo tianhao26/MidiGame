@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tunes>
+  <tune name="C">
+	<rule name="大三和弦" code="">
+	    <key code="0"/>
+		<key code="4"/>
+		<key code="7"/>
+      </rule>
+	<rule name="小三和弦" code="m">
+		<key code="0"/>
+		<key code="2"/>
+		<key code="5"/>
+      </rule>
+  </tune>
+<tune name="D">
+	<rule name="大三和弦" code="">
+		<key code="2"/>
+		<key code="5"/>
+		<key code="7"/>
+      </rule>
+	<rule name="小三和弦" code="m">
+		<key code="2"/>
+		<key code="4"/>
+		<key code="7"/>
+      </rule>
+  </tune>
+<tune name="E">
+	<rule name="大三和弦" code="">
+		<key code="4"/>
+		<key code="7"/>
+		<key code="9"/>
+      </rule>
+	<rule name="小三和弦" code="m">
+		<key code="4"/>
+		<key code="6"/>
+		<key code="9"/>
+      </rule>
+  </tune>
+<tune name="F">
+	<rule name="大三和弦" code="">
+		<key code="5"/>
+		<key code="8"/>
+		<key code="10"/>
+      </rule>
+	<rule name="小三和弦" code="m">
+		<key code="5"/>
+		<key code="7"/>
+		<key code="10"/>
+      </rule>
+  </tune>
+<tune name="G">
+	<rule name="大三和弦" code="">
+		<key code="7"/>
+		<key code="10"/>
+		<key code="12"/>
+      </rule>
+	<rule name="小三和弦" code="m">
+		<key code="7"/>
+		<key code="9"/>
+		<key code="12"/>
+      </rule>
+  </tune>
+<tune name="A">
+	<rule name="大三和弦" code="">
+		<key code="9"/>
+		<key code="12"/>
+		<key code="14"/>
+      </rule>
+	<rule name="小三和弦" code="m">
+		<key code="9"/>
+		<key code="11"/>
+		<key code="14"/>
+      </rule>
+  </tune>
+<tune name="B">
+	<rule name="大三和弦" code="">
+		<key code="11"/>
+		<key code="14"/>
+		<key code="16"/>
+      </rule>
+	<rule name="小三和弦" code="m">
+		<key code="11"/>
+		<key code="13"/>
+		<key code="16"/>
+      </rule>
+  </tune>
+</tunes>
+
